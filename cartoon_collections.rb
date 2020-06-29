@@ -3,7 +3,7 @@ def roll_call_dwarves ["Doc", "Dopey", "Bashful",
   puts roll_call_dwarves.each
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet ["earth", "wind", "fire", "water", "heart"]# code an argument here
   # Your code here
 end
 
