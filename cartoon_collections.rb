@@ -8,7 +8,8 @@ def summon_captain_planet = ["earth", "wind", "fire", "water", "heart"]# code an
 end
 
 def long_planeteer_calls short_words = ["puff", "go", "two"]
-  # Your code here
+assorted_words = ["two", "go", "industrious", "bop"]
+long_planeteer_calls(assorted_words)
 end
 
 def find_the_cheese# code an argument here
