@@ -1,6 +1,6 @@
 def roll_call_dwarves ["Doc", "Dopey", "Bashful",
   "Grumpy"]
-  puts roll_call_dwarves
+  puts roll_call_dwarves.each
 end
 
 def summon_captain_planet# code an argument here
